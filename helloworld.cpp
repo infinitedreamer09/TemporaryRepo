@@ -1,7 +1,10 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
-cout<<"Hello World !!";
-return 0;
+    cout << "Hello World !!\n Helu pussy !!";
+	cout<<"Hi Soham"<<endl;
+
+    cout<<"This is Soham commited this";
+    return 0;
 }
